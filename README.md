@@ -8,7 +8,7 @@ The half adder is a combinational logic circuit that performs binary addition of
 
 ## Circuit Diagram
 
-![Circuit Diagram](photos/table.png)
+![Circuit Diagram](photos/ha_logisim.png)
 
 The SUM is obatained from the XOR gate while the CARRY is obtained from the AND gate.
 

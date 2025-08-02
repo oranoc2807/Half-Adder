@@ -11,7 +11,7 @@ half_adder uut (
 );
 
 initial begin
-    $dumpfile("half_adder_tb.vcd");
+    $dumpfile("wave.vcd");
     $dumpvars(0, tb_half_adder);
 
     // Test cases

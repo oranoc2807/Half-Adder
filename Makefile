@@ -27,5 +27,5 @@ run: $(OUT)
 
 # Clean up build artifacts
 clean:
-	@echo "🧹 Cleaning up..."
+	@echo "Cleaning up..."
 	rm -f $(OUT) $(VCD)
